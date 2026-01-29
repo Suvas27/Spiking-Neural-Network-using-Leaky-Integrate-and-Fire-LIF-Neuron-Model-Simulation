@@ -1,0 +1,2 @@
+# Spiking-Neural-Network-using-Leaky-Integrate-and-Fire-LIF-Neuron-Model-Simulation
+This project implements a brain-inspired Leaky Integrate-and-Fire (LIF) neuron model using discrete-time, fixed-point arithmetic. It extends a single neuron into a small multi-neuron network to demonstrate spike-based communication, scalability, and event-driven, low-power computation inspired by biological neural systems.
